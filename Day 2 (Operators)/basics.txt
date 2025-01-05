@@ -1,0 +1,26 @@
+*Types of operators :
+1.Arithmetic Operators ( Binary, Unary)
+2.Relational Operators
+3.Logical Operators
+4.Bitwise Operators
+5.Assignment Operators
+
+
+##Arithmetic Operators:
+Binary : +,-,*,/,%
+Unary : ++, --
+
+++a  = pre increment (first value change,then value use)
+a++ = post increment (first value use,then value change)
+
+
+##Relational Operators: ==, !=, >, <, >=, <=
+
+
+##Logical Operators:
+&& (logical AND) = both condition must be true
+|| (logical OR) = only one condition true needed
+! (Logical NOT) = true will be false and false will be true
+
+
+##Assignment Operators: =,+=,-=,*=,/=
