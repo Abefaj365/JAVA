@@ -1,5 +1,3 @@
-
-
 public class fever {
     public static void main(String args[]){
         double temp = 103.5;
